@@ -24,7 +24,7 @@ This is a simple To-Do web application built using Django.
 3. start server
    python manage.py runserver
 4. open in browser
-   http://127.0.0.1:8000/
+   (http://127.0.0.1:8000/tasks/)
 
 ## About
 This project was created as a beginner Django practice project to understand CRUD operations.         
